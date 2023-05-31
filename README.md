@@ -4,6 +4,7 @@
 
 An Action 2D Metroidvania inspired by the likes of Castlevania and Blasphemous.
 Currently still in development and at an early stage. 
+
 Itch.io Page: https://phast.itch.io/divine-retribution
 
 ## **Controls**:
