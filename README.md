@@ -48,5 +48,5 @@ As of June 2023, The game is still early in development and many different featu
 ## **Created by**-
 
 ### **Abhyuday Chauhan**-Programming/Design
-### **Harshh-Character Art and Spritework
+### **Harshh-Character** Art and Spritework
 ### **Chakshu Bhardwaj**-Tileset creation
