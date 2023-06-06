@@ -114,6 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fba604f8fb16ce24abb8275c4ac53990, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isParried: 0
   life: 10
   MaxHP: 10
   turnLayerMask:
@@ -126,7 +127,7 @@ MonoBehaviour:
   facingRight: 1
   dmgValue: 1
   speed: 5
-  attackCooldown: 3
+  attackCooldown: 5
   attackDistance: 1.25
   isInvincible: 0
   dist: 0
